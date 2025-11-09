@@ -1,0 +1,1 @@
+A small web-based unit converter that converts between miles and kilometers using plain HTML, CSS, and JavaScript. The project demonstrates basic DOM access, simple conversion logic, and immediate UI feedback via a page element and console logging.
